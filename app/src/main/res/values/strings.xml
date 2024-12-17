@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Test USB Communication</string>
+    <string name="send">Send</string>
+</resources>
